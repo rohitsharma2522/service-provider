@@ -27,6 +27,7 @@ public class ServiceProviderController {
 	@Value("${server.port}")
 	private int port;
 	
+	@Autowired
 	ServiceProvider serviceProvider;
 	
 	@GetMapping(value = "/getallserviceprovider")
