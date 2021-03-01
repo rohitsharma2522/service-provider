@@ -1,0 +1,12 @@
+com\nagarro\serviceProvider\services\BookingRequestDetails.class
+com\nagarro\serviceProvider\entities\Address.class
+com\nagarro\serviceProvider\services\impl\BookRequestDetailsImpl.class
+com\nagarro\serviceProvider\entities\ProviderDetailsWithBooking.class
+com\nagarro\serviceProvider\entities\Users.class
+com\nagarro\serviceProvider\controller\ServiceProviderController.class
+com\nagarro\serviceProvider\entities\ServiceProviderEntity.class
+com\nagarro\serviceProvider\ServiceProviderApplication.class
+com\nagarro\serviceProvider\services\ServiceProvider.class
+com\nagarro\serviceProvider\entities\BookService.class
+com\nagarro\serviceProvider\services\impl\ServiceProviderImpl.class
+com\nagarro\serviceProvider\constants\BookingStatus.class
